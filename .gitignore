@@ -1,0 +1,5 @@
+.venv
+indexes/
+gradio_cached_examples
+test_notebook.ipynb
+data/
